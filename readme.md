@@ -36,7 +36,7 @@ services :
 
 ### Screenshot
 
-![image](./screenshot.png)
+![image](https://github.com/teddcp2/docker_project_1/blob/master/screenshot.JPG)
 
 Thanks for Reading :)
 Tedd
